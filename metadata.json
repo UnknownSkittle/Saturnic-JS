@@ -1,1 +1,10 @@
-
+{
+  "name": "Saturnic",
+  "version": "1.0.0",
+  "author": "Unknown_Skittle",
+  "colors": {
+    "main": "#ad5858",
+    "dark": "#660e0e"
+  },
+  "clickgui_key": "RIGHT_SHIFT"
+}
