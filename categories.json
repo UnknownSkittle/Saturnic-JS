@@ -1,1 +1,10 @@
-
+{
+  "categories": [
+    "Combat",
+    "Movement",
+    "Render",
+    "Player",
+    "World",
+    "Misc"
+  ]
+}
