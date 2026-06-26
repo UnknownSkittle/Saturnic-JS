@@ -1,1 +1,15 @@
-
+{
+  "window": {
+    "background": "#ad5858",
+    "header": "#660e0e",
+    "text": "#ffffff"
+  },
+  "module": {
+    "enabled": "#660e0e",
+    "disabled": "#3a1a1a"
+  },
+  "slider": {
+    "track": "#660e0e",
+    "knob": "#ffffff"
+  }
+}
